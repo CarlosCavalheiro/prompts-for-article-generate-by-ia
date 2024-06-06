@@ -44,7 +44,7 @@ Lexica.art：
       width=80 
       src="https://avatars.githubusercontent.com/u/58004969?v=4"
     />
-    <p>&nbsp&nbsp&nbspCarlos Cavalheiro<br>
+    <p>&nbsp&nbsp&nbspCarlos Alexandre Cavalheiro<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/CarlosCavalheiro">
     GitHub</a>&nbsp;|&nbsp;
@@ -58,5 +58,3 @@ Lexica.art：
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
