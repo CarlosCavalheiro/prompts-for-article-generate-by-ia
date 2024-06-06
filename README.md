@@ -49,7 +49,7 @@ Lexica.art：
         <br>    
         [<a href="https://github.com/CarlosCavalheiro">GitHub</a>]
         <br/>
-        [<a href="www.linkedin.com/in/cavalheiro_ca">LinkedIn</a>]
+        [<a href="https://www.linkedin.com/in/cavalheiro_ca">LinkedIn</a>]
         <br/>
         [<a href="https://www.instagram.com/cavalheiro_ca/">Instagram</a>]
     </p>
