@@ -28,14 +28,14 @@ Lexica.art：
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, pesquisei por: Python, Analise de Dados de Históricos de acesso. As imagens originas se contram na pasta assets bem como a arte de cada topo utilizado na publicação.
 
 
-## ✨ Features
+## ✨ Ferramentas utilizadas
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
 - Utilizado Pycharm (reproduzir os códigos)
 - Utilizado Colab (reproduzir os códigos)
 
-## 👨‍💻 Onde Estou
+## 👨‍💻 Autor
 
 <p>
     <img 
@@ -44,15 +44,15 @@ Lexica.art：
       width=80 
       src="https://avatars.githubusercontent.com/u/58004969?v=4"
     />
-    <p>&nbsp&nbsp&nbspCarlos Alexandre Cavalheiro<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/CarlosCavalheiro">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/cavalheiro_ca">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/cavalheiro_ca/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <p>
+        Carlos Alexandre Cavalheiro
+        <br>    
+        [<a href="https://github.com/CarlosCavalheiro">GitHub</a>]
+        <br/>
+        [<a href="www.linkedin.com/in/cavalheiro_ca">LinkedIn</a>]
+        <br/>
+        [<a href="https://www.instagram.com/cavalheiro_ca/">Instagram</a>]
+    </p>
 </p>
 <br/><br/>
 <p>
